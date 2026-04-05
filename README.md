@@ -22,7 +22,7 @@ mail command (for confirmation emails)
 Standard Unix utilities: sha256sum, sed, grep, find, du
 
 ## Usage
-bashchmod +x script.sh
+chmod +x script.sh
 ./script.sh
 
 Then follow the interactive menu.
